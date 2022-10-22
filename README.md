@@ -1,8 +1,9 @@
-### Hi Folks 😎
-#### Here you will find Seaching and Sorting Algorithms in C++
+## Hi Folks 😎
+### Here you will find Seaching and Sorting Algorithms in C++
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
 
 ![I am an Engineering Student from India](https://files.realpython.com/media/Sorting-Algorithms-in-Python-Merge-Sort-vs-Bubble-Sort_Watermarked.1d6c89c80883.jpg)
-
 
 ## Tech Stack Used
 ![c++](icons8-c++.svg)
