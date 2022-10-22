@@ -6,3 +6,11 @@
 
 ## Tech Stack Used
 ![c++](icons8-c++.svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
+
+### `Click The Link to get a live demo of Sorting Visualizer` 👉 : [Click Here](https://sushavan20.github.io/Sorting-Visualizer/)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="3000">
+
+#### Please Give a 🌟 if you Like
