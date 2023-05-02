@@ -1,1 +1,0 @@
-![I am an Engineering Student from India](https://scontent.fccu1-1.fna.fbcdn.net/v/t1.18169-9/17022430_10154463455962799_7533267187071675218_n.png?_nc_cat=110&ccb=1-5&_nc_sid=2c4854&_nc_ohc=UmjOBXLjO8wAX_zYPMt&_nc_ht=scontent.fccu1-1.fna&oh=00_AT-7qFrlJ1xfQBt2re_BrLLi2XBdpQYlcbGIGtmgftTDQw&oe=621BC6D3)
